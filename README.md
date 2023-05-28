@@ -1,7 +1,7 @@
 # Food_Demand_Forecasting
 In this Repository you can able to see the food demand Forecasting problem 
 
-## Steps In-Depth
+## Work flow
 * Importing Libraries
 * Load Dataset
 * Data Cleaning
@@ -9,5 +9,5 @@ In this Repository you can able to see the food demand Forecasting problem
 * Splitting into Train / Test
 * Model Building 
 
-## you can also the Refer the Dataset link:
+## Dataset link:
 https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting
