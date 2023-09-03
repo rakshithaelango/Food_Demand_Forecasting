@@ -15,3 +15,6 @@ The main aim of this project is to create an appropriate machine learning model 
 
 ## Dataset link:
 https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting
+![1693731589466](https://github.com/rakshithaelango/Food_Demand_Forecasting/assets/116090323/74eca4f5-3dfb-4a34-8494-d85eb95d2dc0)
+![1693731589472](https://github.com/rakshithaelango/Food_Demand_Forecasting/assets/116090323/270921f6-5c26-4423-985d-4db6b3d759f4)
+![1693731589462](https://github.com/rakshithaelango/Food_Demand_Forecasting/assets/116090323/431d0359-d01d-450c-a62d-da8da01248bd)
