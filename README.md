@@ -54,17 +54,18 @@ The main aim of this project is to create an appropriate machine learning model 
 
 * STEP 5: Correlation by using heatmap
 
- ![1693731589462](https://github.com/rakshithaelango/Food_Demand_Forecasting/assets/116090323/431d0359-d01d-450c-a62d-da8da01248bd)
+![1693731589472](https://github.com/rakshithaelango/Food_Demand_Forecasting/assets/116090323/270921f6-5c26-4423-985d-4db6b3d759f4)
  
-* STEP 6: Splitting the dataset into train - test split and Model Building.
+* STEP 6: Splitting the dataset into train - test split.
 
         * Splitting the dataset:
 
          X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.25).
 
-        * Model Building:
-          
-![1693731589472](https://github.com/rakshithaelango/Food_Demand_Forecasting/assets/116090323/270921f6-5c26-4423-985d-4db6b3d759f4)
+
+  * STEP 7: Model Building:
+    
+    ![1693731589462](https://github.com/rakshithaelango/Food_Demand_Forecasting/assets/116090323/431d0359-d01d-450c-a62d-da8da01248bd)
 
 ## Dataset link:
 https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting
